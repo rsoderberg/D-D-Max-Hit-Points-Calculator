@@ -1,6 +1,6 @@
 # D&D-Max-Hit-Points-Calculator
 
-To run the standalone calculator: Simply download the .exe file in bin/Release and run.
+To run the standalone calculator: Simply download the .exe application file in bin/Release and run.
 
 Using the calculator:
 1. Enter your character's current Max HP (or enter 0 if you're creating a new level 1 character)
