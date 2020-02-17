@@ -1,0 +1,20 @@
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.exe.config
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.exe
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.pdb
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csprojAssemblyReference.cache
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND_Max_Hit_Points_Calculator.calculateMaxHPForm.resources
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND_Max_Hit_Points_Calculator.Properties.Resources.resources
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csproj.GenerateResource.cache
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.exe
+C:\Users\Olorii\Documents\GitHub\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.pdb
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.exe.config
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.exe
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.pdb
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csprojAssemblyReference.cache
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND_Max_Hit_Points_Calculator.calculateMaxHPForm.resources
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND_Max_Hit_Points_Calculator.Properties.Resources.resources
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csproj.GenerateResource.cache
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.exe
+C:\Users\Olorii\Documents\GitHub\D-D-Max-Hit-Points-Calculator\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.pdb

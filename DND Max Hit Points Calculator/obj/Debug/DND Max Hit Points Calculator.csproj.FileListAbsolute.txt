@@ -1,8 +1,0 @@
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.exe.config
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.exe
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\bin\Debug\DND Max Hit Points Calculator.pdb
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND_Max_Hit_Points_Calculator.calculateMaxHPForm.resources
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND_Max_Hit_Points_Calculator.Properties.Resources.resources
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.csproj.GenerateResource.Cache
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.exe
-C:\Users\rsoderberg\Documents\Rachel\Portfolio\C# Projects\D&D Max Hit Points Calculator\DND Max Hit Points Calculator\DND Max Hit Points Calculator\obj\Debug\DND Max Hit Points Calculator.pdb
